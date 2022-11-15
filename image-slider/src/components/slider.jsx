@@ -1,4 +1,5 @@
 import { useState } from "react";
+import './slider.css';
 
 const slideStyles = {
   width: "100%",
